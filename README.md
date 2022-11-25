@@ -35,31 +35,33 @@ After you're finished please remove all the comments and instructions!
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
-- [📝 License](#license)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Rails React Back End ](#-rails-react-back-end-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [Back-end Repository](#back-end-repository)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [❓ FAQ ](#-faq-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Rails React Back End <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> This application is the backend portion to my rails react two app project
 
 **[your_project__name]** is a...
 
@@ -79,7 +81,7 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://expressjs.com/">Ruby on Rails</a></li>
   </ul>
 </details>
 
@@ -96,11 +98,22 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **This app does not contain much feature, this is an endpoint to my react project**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Back-end Repository
+| Repository | Pull request |
+|------------|------------|
+|[Repo link >>](https://## Back-end Repository
+| Repository | Pull request |
+|------------|------------|
+|[Repo link >>](https://https://github.com/henrycode460/rails_react_front_end)|[Pull request Here >>](https://github.com/henrycode460/rails_react_front_end/pulls)|
+
+)|[Pull request Here >>](https://github.com/henrycode460/rails_react_back_end/pulls)|
+
+
 
 <!-- LIVE DEMO -->
 
@@ -124,6 +137,8 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
+- Computer
+
 <!--
 Example command:
 
@@ -135,6 +150,12 @@ Example command:
 ### Setup
 
 Clone this repository to your desired folder:
+
+Run ``git@github.com:henrycode460/rails_react_back_end.git``
+Run ``cd rails_react_back_end``
+Run  `` bundle install``
+Run ``rails db:migrate``
+
 
 <!--
 Example commands:
@@ -204,15 +225,12 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+**Henry Varflay Singbeh**
 
-👤 **Author2**
+- GitHub: [@githubhandle](https://github.com/henrycode460)
+- Twitter: [@twitterhandle](https://twitter.com/code460)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/henry-varflay-singbeh)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -234,7 +252,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/henrycode460/rails_react_back_end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
